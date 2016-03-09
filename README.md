@@ -4,7 +4,7 @@ AwsUtils is a simple and basic tool to automate some tasks in AwsEC2 using pytho
 
 ###Configure AwsUtils over scripts
 
-To create a automate script in **AWS** you must to do some basic config. First, we going to config a file .boto and credentials.
+To create a automated scripts for **AWS** you must to do some basic config. First, we going to create a config file called *.boto* and *credentials.*
 This files are mandatory to login in AWS over the scripts. A **boto** lib automatically get in this files the credentials
 to comunicate with EC2.
 
